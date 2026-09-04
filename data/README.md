@@ -1,6 +1,6 @@
 # Data
 
-The raw Penmanshiel wind farm dataset is not included in this repository.
+The raw Penmanshiel wind farm dataset is not included in this repository
 
 The dataset is publicly available from Zenodo:
 
