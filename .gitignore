@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dissertation data
+data/raw/
+Penmanshiel_SCADA_*/
+Penmanshiel_PMU_*/
+Penmanshiel_Grid_*/
+*.kmz
+
+# Generated model/output files
+outputs/
+*.h5
+*.keras
+*.pkl
+
+# macOS
+.DS_Store
